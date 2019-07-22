@@ -1,8 +1,9 @@
 # CS120B-Costom-project
 
 **Introduction**
+
 You will work independently to design and implement a custom lab project on the ATmega1284 microprocessor. Due to the limited time during the summer session, you have the choice of two projects you can complete: Side scrolling game or Pong. Your implementation should involve concurrent synchSMs implemented with no variations from the structured techniques from the lecture and course book, unless specifically waived by the TA/Instructor. 
-Note: If you want to work on a different project you must get permission from the TA and Instructor. Keep in mind that summer sessions have limited time. 
+*Note: If you want to work on a different project you **must** get permission from the TA and Instructor. Keep in mind that summer sessions have limited time.*
 
 Your game should include 
 a way of accumulating and displaying a score, 
