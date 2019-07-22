@@ -1,8 +1,6 @@
-# CS120B-Costom-project-
+# CS120B-Costom-project
 
-UCR EE/CS 120B
-Custom Project
-Introduction
+**Introduction**
 You will work independently to design and implement a custom lab project on the ATmega1284 microprocessor. Due to the limited time during the summer session, you have the choice of two projects you can complete: Side scrolling game or Pong. Your implementation should involve concurrent synchSMs implemented with no variations from the structured techniques from the lecture and course book, unless specifically waived by the TA/Instructor. 
 Note: If you want to work on a different project you must get permission from the TA and Instructor. Keep in mind that summer sessions have limited time. 
 
@@ -20,7 +18,7 @@ A side scrolling game consists of a character on one side of the screen that mov
 
 
 
-Custom lab “Build-Upons”
+**Custom lab “Build-Upons”**
 A full “Build-Upon” score requires at least 3 individual “Build-Upons”. These “Build-Upons” can come from two general domains: hardware and software. You may build-upon previous lab exercises, or create new software and/or use new hardware.
 
 Hardware: Use a non-trivial hardware component (new component or reuse an old component in a new way). For example, the lab kit’s LCD has the ability to write to each pixel on the screen, not just a single character at a time (½ complexity). Another example is repurposing your speaker to be a microphone.
@@ -44,21 +42,21 @@ EEPROM to save score (½)
 Second player (interacts with first)
 etc.
 
-Demo video
+**Demo video**
 Prepare a 70-110 second video (no shorter, no longer). Upload to YouTube with the EXACT title format:
 
  "UCR EE/CS 120B Quarter Year -- Firstname Lastname -- Custom lab title summarizing functionality"
 
 Your video should be publicly viewable. The video should demo your invention, highlighting all of your “Build-Upons”. (When searching for jobs, considering linking to this video from your resume/web-page/linkedin-page/etc. A Google recruiter actually reached out to a former student for an interview because of one of these videos). 
-In-lab proposal
+**In-lab proposal**
 Submit to your TA which project you decide to work on. 
-Milestones
+**Milestones**
 There will be two milestone check-off’s, the first at the end of the week you start your project and the second about a week after you start (check the calendar for exact dates). For each milestone you will need to 
 Demo a working build-upon to your TA
 Create a wiring diagram for how your breadboard is wired currently
 Take a picture (cell-phone okay) of your breadboard
 Commit to github with a tag indicating which milestone it is.
-Final demo
+**Final demo**
 There will be the final demo day on the last day of lab where you get to show off your final project to your TA’s and fellow classmates. 
 Custom lab grade breakdown
   5%: Proposal
@@ -69,7 +67,7 @@ Custom lab grade breakdown
 10%: Implementation using structured techniques (from lecture and course book)
 10%: Report
   5%: Demo video
-Custom lab folder and submission
+**Custom lab folder and submission**
 Create a Google doc folder
 Make sure the folder is sharable with the link (no login required); test with someone else in the class (or in incognito mode) to make sure it is shared properly.
 Idea is to create something you can link to from your personal homepage, for future job searches.
