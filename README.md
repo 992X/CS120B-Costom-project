@@ -14,7 +14,9 @@ Your game should include
 	
 	informational messages to the user, and 
 	
-	a button that can be pressed at any time to start over (a soft reset to the game). *Note: A soft reset **does not** require the user removing power from the microcontroller.*
+	a button that can be pressed at any time to start over (a soft reset to the game). 
+	
+	*Note: A soft reset **does not** require the user removing power from the microcontroller.*
 
 (Some examples from summer session can be found here and here, also just search YouTube for “UCR EE/CS 120B”).
 
