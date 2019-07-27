@@ -1,6 +1,6 @@
 # CS120B-Costom-project
 
-	In this project, I designed a classic multiplayer Pong game. Each player controls a bar to reflect the bouncing ball. If one of the players misses the ball, he will lose the game and the screen will show the smile to the winner. Then, the screen will display smiles and scores are on the sides of the screen. The players can press any button to continue the game. There is also a reset button on the side to reset the game and initial the score.
+In this project, I designed a classic multiplayer Pong game. Each player controls a bar to reflect the bouncing ball. If one of the players misses the ball, he will lose the game and the screen will show the smile to the winner. Then, the screen will display smiles and scores are on the sides of the screen. The players can press any button to continue the game. There is also a reset button on the side to reset the game and initial the score.
 
 To run this code, you need to:
 
